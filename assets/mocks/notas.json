@@ -1,0 +1,25 @@
+[
+    {
+        "versao": "1.0.1-BETA",
+        "data_lancamento": "2024-03-15T18:34:29.240Z",
+        "novas_features": [
+            "Capacidade de gerir, criar e atualizar: Colaboradores",
+            "Capacidade de gerir, criar e atualizar: Moradores",
+            "Capacidade de gerir, criar e atualizar: Veículos",
+            "Capacidade de gerir, criar e atualizar: Pets",
+            "Capacidade de gerir, criar e atualizar: Dependentes",
+            "Capacidade de gerir, criar e atualizar: Imóveis",
+            "Capacidade de gerir, criar e atualizar: Encomendas",
+            "Capacidade de gerir, criar e atualizar: Chamados (solicitações) de serviços",
+            "Consulta rápida por: Morador, proprietário ou dependente",
+            "Consulta rápida por: Veículo",
+            "Operação com encomenda: Finalização por intermédio de  assinatura ou comprovante fotográfico"
+        ],
+        "melhorias": [
+            "N.A"
+        ],
+        "correcoes": [
+            "Ajuste de permissionamento"
+        ]
+    }
+]
