@@ -1,5 +1,25 @@
 [
     {
+        "versao": "1.0.2-BETA",
+        "data_lancamento": "2024-03-20T18:34:29.240Z",
+        "novas_features": [
+            "Envio de e-mail ao usuário associado à encomenda no ato de ENTRADA da mesma",
+            "Envio de e-mail ao usuário associado à encomenda no ato de RETIRADA da mesma"
+        ],
+        "melhorias": [
+            "Tela de visualização de ficha de usuário, agora disponível no menu de moradores",
+            "Possibilidade de entrar manualmente com a data de nascimento dos usuários"
+        ],
+        "correcoes": [
+            "Ajuste de permissionamento de veículos",
+            "Ajuste de permissionamento de perfis",
+            "Correção da tela de consulta que não permitia a visualização dos resultados nos temas claros",
+            "Correção na tela de atualização de imóveis que não permitia salvar a atualização",
+            "Correção de erros ortográficos",
+            "Alteração de determinadas nomeclaturas" 
+        ]
+    },
+    {
         "versao": "1.0.1-BETA",
         "data_lancamento": "2024-03-15T18:34:29.240Z",
         "novas_features": [
