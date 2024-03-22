@@ -1,5 +1,20 @@
 [
     {
+        "versao": "1.1.0-BETA",
+        "data_lancamento": "2024-03-22T18:34:29.240Z",
+        "novas_features": [
+            "N/A"
+        ],
+        "melhorias": [
+            "Remoção da obrigatoriedade de e-mail na criação de usuários",
+            "Veículos são exibidos na ficha de imprenssão",
+            "Possibilidade de associar um imóvel à encomenda"
+        ],
+        "correcoes": [
+            "Ajuste de fuso horário para correta exibição de datas com horas" 
+        ]
+    },
+    {
         "versao": "1.0.2-BETA",
         "data_lancamento": "2024-03-20T18:34:29.240Z",
         "novas_features": [
