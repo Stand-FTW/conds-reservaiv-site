@@ -1,5 +1,18 @@
 [
     {
+        "versao": "1.1.1-BETA",
+        "data_lancamento": "2024-03-25T18:34:29.240Z",
+        "novas_features": [
+            "N/A"
+        ],
+        "melhorias": [
+            "N/A"
+        ],
+        "correcoes": [
+            "Ajuste na opção de imóveis para retirar associação de usuários" 
+        ]
+    },
+    {
         "versao": "1.1.0-BETA",
         "data_lancamento": "2024-03-22T18:34:29.240Z",
         "novas_features": [
